@@ -1,12 +1,13 @@
 {
-  "name": "rafa-portfolio",
+  "name": "lucas-vieses",
   "version": "1.0.0",
-  "description": "rafael web portfolio",
+  "description": "vieses cognitivos apelo à novidade",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node public/index.js"
   },
-  "author": "Rafael Henrique Amorim Malheiros",
+  "author": "Lucas Fernandes",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.10",
