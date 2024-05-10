@@ -4,7 +4,6 @@ const port = 3000;
 
 let counter = 0
 
-app.use(express.json())
 app.set('view engine', 'ejs');
 app.set('views', './public/views');
 
