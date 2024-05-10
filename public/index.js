@@ -5,7 +5,7 @@ const port = 3000;
 let counter = 0
 
 app.set('view engine', 'ejs');
-app.set('views', './views');
+app.set('views', './public/views');
 
 app.get('/', (req, res) => {
     counter++;
